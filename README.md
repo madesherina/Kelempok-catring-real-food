@@ -49,7 +49,7 @@ Aplikasi ini memiliki fitur pemesanan makanan sehat berbasis mobile. Pengguna da
 
 ## 📺 Video Presentasi
 Link video YouTube presentasi project:
-🔗 **https://youtu.be/(isi_link_video_kamu)**
+🔗 **[https://youtu.be/(isi_link_video_kamu)](https://github.com/madesherina/Kelempok-catring-real-food.git)**
 
 ---
 
