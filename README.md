@@ -49,13 +49,12 @@ Aplikasi ini memiliki fitur pemesanan makanan sehat berbasis mobile. Pengguna da
 
 ## 📺 Video Presentasi
 Link video YouTube presentasi project:
-🔗 **[https://youtu.be/(isi_link_video_kamu)](https://github.com/madesherina/Kelempok-catring-real-food.git)**
-
+🔗 **[https://youtu.be/(isi_link_video_kamu)**
 ---
 
 ## 💻 Source Code
 Source code aplikasi dapat diakses melalui link GitHub berikut:
-🔗 **https://github.com/(username-kamu)/(nama-repository)**
+🔗 **https://github.com/madesherina/Kelempok-catring-real-food.git**
 
 
 ## 🔮 Rencana Pengembangan ke Depan
