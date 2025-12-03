@@ -2,7 +2,7 @@
 UTS Aplikasi Berbasis Mobile – React Native
 
 ## 👤 Identitas
-- **Nama Anggota Kelompok ** :
+- **Nama Anggota Kelompok** :
 - Ni Made Sherina Sepianingrum
 - Ni Luh Putu Lisa Febriani
 - Ni Made Aulia Amanda Putri
@@ -63,7 +63,3 @@ Source code aplikasi dapat diakses melalui link GitHub berikut:
 - Fitur tracking order
 - Tampilan UI/UX lebih menarik
 - Penambahan rekomendasi menu sesuai kalori
-
----
-
-## 🧱 Struktur Folder Project
